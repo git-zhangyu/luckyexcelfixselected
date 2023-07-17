@@ -14,10 +14,10 @@
     "excel"
   ],
   "author": "msoffice2@126.com",
-  "homepage": "https://github.com/mengshukeji/Luckyexcel",
+  "homepage": "https://github.com/git-zhangyu/luckyexcelfixselected",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mengshukeji/Luckyexcel.git"
+    "url": "https://github.com/git-zhangyu/luckyexcelfixselected"
   },
   "license": "MIT",
   "devDependencies": {
